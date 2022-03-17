@@ -1,3 +1,9 @@
 frog:https://media.nationalgeographic.org/assets/photos/328/624/f73ac5cd-f1f4-44c6-9dc7-ff2b71644ec8_c0-4-2000-1336_r800x533.jpg?14da4bdf1d1150a632db8f141a6ead72fe47ad05 
 giraffe:https://i.natgeofe.com/n/bec7bd50-0d57-4982-aeb5-82e5f8184f89/02-machine-saving-animals-nationalgeographic_1977490.jpg
 rhino:https://i.natgeofe.com/n/aaa2cc1f-50ba-4d67-a851-f88bdb179bc1/01-big-five-animals-nationalgeographic_1910963.jpg
+frog1:https://media.nationalgeographic.org/assets/photos/328/624/f73ac5cd-f1f4-44c6-9dc7-ff2b71644ec8_c0-4-2000-1336_r800x533.jpg?14da4bdf1d1150a632db8f141a6ead72fe47ad05 
+giraffe1:https://i.natgeofe.com/n/bec7bd50-0d57-4982-aeb5-82e5f8184f89/02-machine-saving-animals-nationalgeographic_1977490.jpg
+rhino1:https://i.natgeofe.com/n/aaa2cc1f-50ba-4d67-a851-f88bdb179bc1/01-big-five-animals-nationalgeographic_1910963.jpg
+frog2:https://media.nationalgeographic.org/assets/photos/328/624/f73ac5cd-f1f4-44c6-9dc7-ff2b71644ec8_c0-4-2000-1336_r800x533.jpg?14da4bdf1d1150a632db8f141a6ead72fe47ad05 
+giraffe2:https://i.natgeofe.com/n/bec7bd50-0d57-4982-aeb5-82e5f8184f89/02-machine-saving-animals-nationalgeographic_1977490.jpg
+rhino2:https://i.natgeofe.com/n/aaa2cc1f-50ba-4d67-a851-f88bdb179bc1/01-big-five-animals-nationalgeographic_1910963.jpg

@@ -147,8 +147,6 @@ public class SelectMatchChoice : MonoBehaviour
 
     }
 
-
-
     public void ShowResultText(string resultText, float seconds)
     {
         ResultPanel.SetActive(true);
